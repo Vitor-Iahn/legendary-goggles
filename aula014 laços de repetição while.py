@@ -1,5 +1,6 @@
-print('\nA grande diferença entre os LAÇOS de repetição WHILE ou FOR é que quando usamos o \nLAÇO(FOR) sabemos o ponto final. '
-      'tudo é estático, pré definido. \nLAÇO(WHILE) é usado quando não sabemos o final do algorítmo, ou seja, não há um range estabelecido\n')
+#A grande diferença entre os LAÇOS de repetição WHILE ou FOR é que quando usamos o \nLAÇO(FOR) sabemos o ponto final.
+#tudo é estático, pré definido. \nLAÇO(WHILE) é usado quando não sabemos o final do algorítmo, ou seja, não há um range estabelecido.
+
 #Definir o N como = 1 foi uma gambiarra para o programa poder começar.
 n = 1
 continuar = 's'
